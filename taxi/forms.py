@@ -1,7 +1,5 @@
 from django import forms
 
-from crispy_forms.helper import FormHelper
-
 from taxi.models import Car, Manufacturer
 
 
